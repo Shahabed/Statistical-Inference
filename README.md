@@ -23,6 +23,10 @@ Statistical-Inference/
 │   ├── Hypothesis_Testing/
 │   ├── Weekend_Users_Hypo_Test/
 │   └── Weighted_Temperature/
+├── notebooks/
+│   ├── README.md
+│   ├── 01_test_src_package.ipynb
+│   └── 02_real_world_examples.ipynb
 ├── Automation_monthly_run/       # Automation scripts
 ├── tests/                        # Unit tests
 ├── README.md
