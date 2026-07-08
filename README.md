@@ -1,18 +1,34 @@
 # Statistical-Inference
 
-Implementations of modern statistical methods from classical and frequentist theory in Python.
+**Implementations of modern statistical methods from classical and frequentist theory in Python.**
 
-## Overview
-This repository contains clean, well-documented Python implementations of key statistical inference techniques. It serves as both a learning resource and a practical toolkit for statisticians, data scientists, and researchers.
+This repository showcases clean, practical implementations of statistical techniques — from foundational methods to real-world applications.
 
-## Topics Covered (Current + Planned)
-- **Frequentist Inference**
-- **Hypothesis Testing** (including weekend users case study)
-- **Bootstrap** & **Jackknife** estimates
-- **Empirical Bayes**
-- **James-Stein Estimation** (shrinkage)
-- **LASSO** and regularization
-- **Survival Analysis** / Kaplan-Meier estimator
-- **Objective Bayes**
-- Bayesian Inference (planned)
-- Fisherian Inference (planned)
+## Topics
+`statistics`, `statistical-inference`, `frequentist-statistics`, `bootstrap`, `empirical-bayes`, `james-stein`, `hypothesis-testing`, `survival-analysis`, `lasso`, `shrinkage`, `machine-learning`, `pycaret`
+
+## Repository Structure
+```bash
+Statistical-Inference/
+├── src/                          # Core reusable modules
+│   ├── bootstrap.py
+│   ├── hypothesis_testing.py
+│   ├── empirical_bayes.py
+│   ├── shrinkage.py
+│   ├── lasso.py
+│   └── survival.py
+├── examples/                     # Real-world case studies
+│   ├── RKZ_Regulierungsstatistik/      # Hierarchical KPI scoring
+│   ├── Cross_Selling_BamS/             # ML cross-selling prediction
+│   ├── Hypothesis_Testing/
+│   ├── Weekend_Users_Hypo_Test/
+│   └── Weighted_Temperature/
+├── notebooks/                    # Jupyter notebooks for exploration
+├── data/                         # Sample datasets
+├── results/                      # Output figures and tables
+├── Automation_monthly_run/       # Automation scripts
+├── tests/                        # Unit tests
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── .gitignore
