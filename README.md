@@ -23,9 +23,6 @@ Statistical-Inference/
 │   ├── Hypothesis_Testing/
 │   ├── Weekend_Users_Hypo_Test/
 │   └── Weighted_Temperature/
-├── notebooks/                    # Jupyter notebooks for exploration
-├── data/                         # Sample datasets
-├── results/                      # Output figures and tables
 ├── Automation_monthly_run/       # Automation scripts
 ├── tests/                        # Unit tests
 ├── README.md
