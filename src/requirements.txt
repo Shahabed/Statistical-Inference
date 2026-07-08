@@ -1,0 +1,28 @@
+# Core data & scientific computing
+pandas>=1.5.0
+numpy>=1.23.0
+ 
+# Database connections
+pyodbc>=4.0.0
+sqlalchemy>=1.4.0
+cx_Oracle>=8.0.0   # for Oracle connections
+ 
+# Machine Learning & AutoML
+pycaret>=3.0.0
+scikit-learn>=1.2.0
+ 
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+ 
+# Survival Analysis
+lifelines>=0.27.0
+ 
+# Utilities
+knockknock>=0.2.0     # for Teams notifications
+openpyxl>=3.0.0       # for Excel files
+feather-format>=0.4.0 # for .feather files
+ 
+# Jupyter (optional but recommended)
+jupyter>=1.0.0
+notebook>=6.5.0
