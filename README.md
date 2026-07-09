@@ -28,7 +28,6 @@ Statistical-Inference/
 │   ├── 01_test_src_package.ipynb
 │   └── 02_real_world_examples.ipynb
 ├── Automation_monthly_run/       # Automation scripts
-├── tests/                        # Unit tests
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
