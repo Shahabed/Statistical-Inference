@@ -2,7 +2,6 @@
 bootstrap.py
 Core reusable module for Bootstrap and Jackknife methods.
 
-Author: Grok (for Statistical-Inference repo)
 """
 
 import numpy as np
