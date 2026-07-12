@@ -116,13 +116,6 @@ Many statistical libraries exist, but this project emphasizes:
 - **Practicality**: Ready-to-use functions with sensible defaults.
 - **Real data**: Examples drawn from actual business/regulatory/ scientific problems.
 
-## Future Roadmap
-
-- Add more comprehensive tests and type hints
-- Expand survival analysis module
-- Include Bayesian counterparts (PyMC / Stan examples)
-- Docker / CI automation for monthly runs
-- More detailed API documentation (Sphinx / MkDocs)
 
 ## Contributing
 
@@ -134,9 +127,6 @@ Contributions are welcome! Please:
 
 For major changes, open an issue first to discuss.
 
-## License
-
-[Update with your chosen license — currently assumed MIT or similar based on project]
 
 ## Acknowledgments
 
